@@ -12,8 +12,8 @@ A simple framework created using cypress and javascript testing Login and Settin
 
 ## Execution
 1. Go to project root,
-2. To run in desktop view , run the below command :
+2. To run in desktop view, run the following command:
 `npm run cypress:desktop`
-3. To run in mobile view in chrome browser , run the below command :
+3. To run in mobile view in chrome browser, run the following command:
 `npm run cypress:mobile`
 4. Click specific feature or run all features
