@@ -6,7 +6,7 @@ A simple framework created using cypress and javascript testing Login and Settin
 - Visual Studio Code
 
 ## Quickstart
-1. clone the project and open with Visual Studio Code
+1. Clone the project and open with Visual Studio Code
 2. Open Terminal
 3. Run the command `npm install`
 
