@@ -1,0 +1,17 @@
+{
+  "name": "angularappkindred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:mobile": "npx cypress open --browser chrome --config viewportWidth=375,viewportHeight=667",
+    "cypress:desktop": "npx cypress open --browser chrome --config viewportWidth=1280,viewportHeight=800"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^10.3.0"
+  }
+}

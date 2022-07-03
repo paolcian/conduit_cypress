@@ -1,0 +1,10 @@
+{
+  "email": "paulinanowek90@gmail.com",
+  "password": "P@ssword1!",
+  "apiUrl": "https://api.realworld.io/api",
+  "errorInvalidEmail": "email or password is invalid",
+  "errorInvalidPassword": "email or password is invalid",
+  "errorBlank": "email can't be blank",
+  "errorPasswordBlank": "password can't be blank",
+  "errorUniqueConstraint": "Unique constraint failed on the fields: (`email`)"
+}
